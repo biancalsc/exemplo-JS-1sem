@@ -1,0 +1,16 @@
+{
+  "name": "teste-aula-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/exemplo01",
+    "dois": "node ./src/exemplo02",
+    "tres": "node ./src/exemplo03",
+    "quatro": "node ./src/exemplo04",
+    "cinco": "node ./src/exemplo05"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
